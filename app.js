@@ -30,7 +30,7 @@
     var service = this;
 
     var itemsToBuy = [
-      { name: "Cookies", quantity: 1 },
+      { name: "Cookies", quantity: 4 },
       { name: "Chips", quantity: 2 },
       { name: "Sugary Drinks", quantity: 3 },
       { name: "Candys", quantity: 4 },
